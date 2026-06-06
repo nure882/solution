@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+html, body, #root { margin: 0; padding: 0; height: 100%; }
+body { font-family: 'Inter', 'IBM Plex Sans', 'Roboto', sans-serif; background: #F4F4F4; }
+a { color: inherit; }

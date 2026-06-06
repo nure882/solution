@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fuel pump splash icon: white fuel dispenser on PrimaryBlue (#1565C0) background -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Blue rounded background -->
+    <path
+        android:pathData="M30,20 L78,20 Q88,20 88,30 L88,78 Q88,88 78,88 L30,88 Q20,88 20,78 L20,30 Q20,20 30,20 Z"
+        android:fillColor="#1565C0" />
+
+    <!-- White pump body -->
+    <path
+        android:pathData="M41,30 L55,30 Q60,30 60,35 L60,82 L36,82 L36,35 Q36,30 41,30 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Blue display window -->
+    <path
+        android:pathData="M40,37 L56,37 L56,50 L40,50 Z"
+        android:fillColor="#1565C0" />
+
+    <!-- White base -->
+    <path
+        android:pathData="M34,80 L62,80 Q64,80 64,82 L64,86 L32,86 L32,82 Q32,80 34,80 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- White fuel nozzle (handle + spout) on the right -->
+    <path
+        android:pathData="M60,40 L72,40 L72,45 L68,45 L68,58 Q68,60 66,60 L64,60 Q62,60 62,58 L62,45 L60,45 Z"
+        android:fillColor="#FFFFFF" />
+</vector>

@@ -1,0 +1,47 @@
+# ---- Java / Maven (backend) ----
+target/
+HELP.md
+.mvn/wrapper/maven-wrapper.jar
+
+# ---- Node / Vite (web) ----
+node_modules/
+dist/
+.vite/
+*.local
+
+# ---- Android / Gradle (mobile) ----
+.gradle/
+build/
+local.properties
+*.apk
+*.aab
+*.ap_
+*.dex
+captures/
+.cxx/
+# keep the Gradle wrapper jar (needed to build)
+!gradle/wrapper/gradle-wrapper.jar
+
+# ---- IDE ----
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.project
+.classpath
+
+# ---- Secrets / env ----
+.env
+*.env
+!.env.example
+
+# ---- Python (report generators, if ever added) ----
+__pycache__/
+*.pyc
+
+# ---- OS / misc ----
+.DS_Store
+Thumbs.db
+*.log
