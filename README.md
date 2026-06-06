@@ -17,4 +17,3 @@ User (ADMIN / WORKER / CUSTOMER), Station, GasType, Pump, Coupon.
 2. Web:      cd web && npm install && npm run dev   (http://localhost:3000)
 3. Mobile:   відкрити папку mobile в Android Studio і запустити на емуляторі.
 
-Деталі — у README кожного підпроєкту.
